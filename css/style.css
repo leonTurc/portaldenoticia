@@ -1,0 +1,111 @@
+body {
+    background-color: gray;
+    border: 20px black solid;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 153, 0);
+}
+
+img {
+    margin: auto 525px;
+}
+
+h2 {
+    color: white;
+}
+
+#cabecario {
+    width: 800px;
+    height: 80px;
+    margin: 5px auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#cabecario h1 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 20px;
+}
+
+
+#corpo {
+    width: 800px;
+    height: 500px;
+    margin: 0px auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#corpo h2 {
+    padding: 20px;
+    text-align: center;
+    font-size: 16pt;
+    color: blue;
+}
+
+#corpo p {
+    text-align: justify;
+    font-size: 14pt;
+    font-family: cursive;
+    color: black;
+    margin: 10px 20px;
+}
+#rodape {
+    width: 800px;
+    height: 400px;
+    margin: 0px auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+#rodape h3{
+    color: rgb(141, 0, 0);
+    text-align: center;
+    font-size: 16pt;
+}
+#rodape img {
+    margin: auto 325px;
+}
+.centro {
+    margin: auto 10px;
+}
+.esq {
+    margin: 0px 100px 0px 1px;
+}
+.righ {
+    margin: 0px 100px 0px 1px;
+}
+#corpo2 {
+    width: 800px;
+    height: 700px;
+    margin: 0px auto;
+    background-color: white;
+    border-radius: 20px;
+}
+#corpo2 h2{
+    color: blue;
+    text-align: center;
+}
+#link {
+    margin: auto;
+    width: 800px;
+    height: 105px;
+    background-color: white;
+    border-radius: 20px;
+}
+#link h4{
+    color: blue;
+}
+form{
+    color: whitesmoke;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+
